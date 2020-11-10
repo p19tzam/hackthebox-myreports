@@ -1,2 +1,1 @@
-Buff hackthebox machine writeup
- 
+# [HTB] Hackthebox Buff machine writeup by dhmosfunk
