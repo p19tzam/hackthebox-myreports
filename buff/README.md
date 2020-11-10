@@ -9,7 +9,7 @@
 [2.Root flag](https://github.com/p19tzam/hackthebox-mywriteups/blob/main/buff/README.md#2root-flag)
 
 
-
+ 
 
 #### 1.User flag
 - [x] MACHINE IP: 10.10.10.198 <br> <br>
