@@ -4,9 +4,9 @@
 
 ![buff](https://github.com/p19tzam/photos/blob/main/hackthebox-writeups-photos/buff.png?raw=true)<br>
 
-[1.User flag]()
+[1.User flag](https://github.com/p19tzam/hackthebox-mywriteups/blob/main/buff/README.md#1user-flag)
 
-[2.Root flag]()
+[2.Root flag](https://github.com/p19tzam/hackthebox-mywriteups/blob/main/buff/README.md#2root-flag)
 
 
 
