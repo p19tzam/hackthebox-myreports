@@ -1,0 +1,1 @@
+Buff hackthebox machine writeup
